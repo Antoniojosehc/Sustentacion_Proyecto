@@ -1,0 +1,54 @@
+---------- AP8 - 17/05/2024
+GA10-220501097-AA6-EV01: Archivos cargados en la plataforma de producción 
+000webhost, heroku 
+
+GA10-220501097-AA7-EV01: Realización de pruebas de funcionalidad del software 
+GA10-220501097-AA10-EV01: Elabora documentos técnicos y de usuario del software 
+GA10-220501097-AA11-EV01: Elabora el manual de usuario de acuerdo con las funcionalidades del software 
+
+GA10-240201529-AA1-EV01: DOFA Personal. Identificar habilidades personales como emprendedor 
+GA10-240201529-AA2-EV01: Modelo CANVAS del emprendimiento. Crear modelo de negocio en el que se caracteriza el emprendimiento 
+GA10-240201529-AA3-EV01: Modelo financiero. Proyectar viabilidad financiera del emprendimiento
+
+---------- AP9 
+GA11-210201501-AA1-EV01 taller
+GA11-210201501-AA1-EV02 foro sobre características del trabajo en contexto local
+GA11-210201501-AA2-EV01 informe sobre trabajo decente, ciudadanía laboral, derechos individuales y colectivos en el trabajo.
+GA11-210201501-AA2-EV02 foro sobre el convenio colectivo del trabajo y la libertad sindical
+GA11-210201501-AA2-EV03 gráfico sobre la negociación colectiva
+GA11-210201501-AA2-EV04 infografía sobre la huelga
+GA11-210201501-AA3-EV01 Mapa mental violación de derechos del trabajo
+GA11-210201501-AA3-EV02 Foro estudio de caso.
+GA11-210201501-AA3-EV03 cuadro comparativo sobre el derecho de petición y la acción de tutela.
+GA11-210201501-AA3-EV04 texto argumentativo
+GA11-210201501-AA4-EV01 foro Estado social de derecho
+GA11-210201501-AA4-EV02 - Presentación
+---------- AP9 050's (06/06/2024)
+
+
+1 - Definición del proyecto 
+2 - ERS (SRS) 
+	- Diagrama de casos de uso
+	- Casos de uso (min 10)
+		- Caso de uso extendido
+		- Happy path 
+		- Flujos Alternos
+		- Mock o vistas de la funcionalidad
+        - Diagrama de clases 
+3 - Base de datos
+	- ER - Modelo Relacional de la base de datos
+	- Script de la base de datos 
+4 - Aplicación - web (min 10 pantallas)
+	- Se deben entregar pantallas acordes a los casos de uso entregados previamente: ejemplo
+	- Login
+	- Gestion de usuarios 
+	- Gestion de roles
+	- Gestion de productos 
+	- Gestion de inventario 
+	- Gestion ETC
+5 - El entregable se debe realizar por medio de un repositorio GIT y en formato .zip al correo 
+6 - Se debe realizar consolidado en una presentación en el formato de su preferencia (ppt, prezi, etc) para sustentar todos los items solicitados 
+	dispondrá de 15 min para realizar la sustentación. 
+
+
+Fecha limite de entrega el 20 de mayo.
